@@ -1,5 +1,5 @@
 {
-  "name": "expressjs-boiler-plate",
+  "name": "expressjs-sequelize-plate",
   "version": "1.0.0",
   "description": "boiler plate expressJs Sequelize by redikawest",
   "main": "server.js",
